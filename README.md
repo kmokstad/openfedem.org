@@ -1,5 +1,6 @@
-OpenFEDEM Website
-=================
+[![Build home page](https://github.com/openfedem/openfedem.org/actions/workflows/build-website.yml/badge.svg)](https://github.com/openfedem/openfedem.org/actions/workflows/build-website.yml)
+
+* Open FEDEM Website
 
 Welcome to the repository for the OpenFEDEM Website.
 This repository contains the source files (Markdown) and content
